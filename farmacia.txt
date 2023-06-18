@@ -7,3 +7,6 @@ Top Farmácias:
 5. Panvel Farmácias 
 6. Drogaria Araújo
 7. Extrafarma
+
+
+commit separado
